@@ -171,25 +171,16 @@ body{
 
 @media(max-width: 600px){
     .card1{
-        width: 600px;
-        height: 300px;
+        width: 550px;
+        height: 250px;
     }
 
     .card2{
-        width: 450px;
-    }
-
-    .computer{
-        width: 100%;
+        width: 400px;
     }
 
     .card4{
         width: 550px;
-    }
-
-    .devices{
-        width: 100%;
-
     }
 
     .tools{
@@ -209,3 +200,4 @@ body{
     }
 
 }
+
