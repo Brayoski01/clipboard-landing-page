@@ -173,6 +173,9 @@ body{
     .body{
         width: 100%;
         overflow-y: hidden;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
     
     .card1{
@@ -196,13 +199,11 @@ body{
 
     .computer{
         width: 100%;
-        height: 300px;
+        height: auto;
+        margin-right: 60px;
     }
 
-    .card3{
-        flex-direction: column;
-        align-items: center;
-    }
+   
 
     .card4{
         width: 550px;
@@ -230,6 +231,7 @@ body{
     }
 
 }
+
 
 
 
