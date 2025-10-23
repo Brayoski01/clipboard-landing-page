@@ -179,12 +179,12 @@ body{
     }
     
     .card1{
-        width: 550px;
-        height: 250px;
+        width: 600px;
+        height: 300px;
     }
 
     .card2{
-        width: 400px;
+        width: 500px;
     }
 
     
@@ -231,6 +231,7 @@ body{
     }
 
 }
+
 
 
 
