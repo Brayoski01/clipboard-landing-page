@@ -5,6 +5,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    width: 100%;
 }
 
 .card1{
@@ -180,7 +181,6 @@ body{
 
     .computer{
         width: 100%;
-        height: auto;
     }
 
     .card4{
@@ -189,7 +189,6 @@ body{
 
     .devices{
         width: 100%;
-        height: auto;
 
     }
 
@@ -208,4 +207,5 @@ body{
     .card6{
         width: 600px;
     }
+
 }
